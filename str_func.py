@@ -1,4 +1,5 @@
 def func(line):
+    """do all letters BIGGER"""
     new_line = line.upper()
     return new_line
 
